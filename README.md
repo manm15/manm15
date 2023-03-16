@@ -1,5 +1,6 @@
-#Second Account of @mosesman831
-Moses Man, Inc; Moses Software; Moses Man Software
+<h3 align="left">Second Account of @mosesman831</h1>
+<h3 align="left">Moses Man, Inc; Moses Software; Moses Man Software</h1>
+
 
 
 ![](https://komarev.com/ghpvc/?username=mosesman831&label=Profile+Views+of+Moses+Man)
